@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Akshay vishwakarma</h1>
-<h3 align="center">A passionate MERN stack developer from India. Currently exploring ML and Data Science</h3>
+<h3 align="center">Currently exploring ML and Data Science</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
