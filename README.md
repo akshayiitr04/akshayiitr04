@@ -9,9 +9,9 @@
 
 
 
-- 🔭 I’m currently working on **MERN stack**
+- 🔭 I’m currently working on **Data Engineering**
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **DL**
 
 - 📫 How to reach me **akshayvishwakarma900@gmail.com**
 
